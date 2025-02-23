@@ -11,8 +11,8 @@ export function Header() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link to={"/"}>
           <img
-            src={theme === "dark" ? "/logo.png" : "/logo2.png"}
-            alt="Klimate logo"
+            src={theme === "dark" ? "/skysagelogobgless.png" : "/skysagelogo2.png"}
+            alt="SkySage logo"
             className="h-14"
           />
         </Link>
