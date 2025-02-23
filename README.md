@@ -1,4 +1,4 @@
-# Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript  🔥🔥
+# Weather App with React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript  🔥🔥
 
 
 
